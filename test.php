@@ -1,5 +1,9 @@
 <?php
 
+// reading Danish SKAT result file 
+// IndberetningValideringStatus - contains the result code
+// IndberetningFejlTekst - contains the error message
+
 $files = scandir(__DIR__);
 
 unset($files[0],$files[1]);
