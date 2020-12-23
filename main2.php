@@ -12,3 +12,13 @@ foreach($books as ['title' => $title, 'author' => $author]) {
     var_dump($title);
     var_dump($author);
 }
+
+$books2 = [
+    ['The Martian', 'Andy Weir'],
+    ['Harry Potter','JK Rowling']
+];
+
+foreach($books as [$title, $author]) {
+    var_dump($title);
+    var_dump($author);
+}
