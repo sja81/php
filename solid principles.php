@@ -13,4 +13,17 @@
 
 // Liskov substitution
 // Derived classes must be substitutable for their base classes.
-// 
+
+pathinfo($file, PATHINFO_EXTENSION);
+
+// 1. signature must match
+// 2. preconditions can't be greater
+// 3. post conditions at least equal to 
+// 4. exception types must match
+
+// Interface segregation 
+// a client should not be forced to implement an interface that it doesn't use
+
+// Depend on abstractions, not on concreations.
+// Dependency inversion doesn't equal DI
+// All of this is about decoupling code
