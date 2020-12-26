@@ -27,3 +27,6 @@ function sortBy($property)
 
 # Null coalesce operator
 
+$name = $_GET['name'] ?? '';
+
+use App\{Person, Animal};
