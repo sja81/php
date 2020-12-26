@@ -2,3 +2,4 @@ The PHP Practitioner
 Object-oriented principles in PHP
 What's new in PHP 7.1
 PHP7 up and running
+Whats new in PHP 7.4
