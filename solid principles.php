@@ -27,3 +27,5 @@ pathinfo($file, PATHINFO_EXTENSION);
 // Depend on abstractions, not on concreations.
 // Dependency inversion doesn't equal DI
 // All of this is about decoupling code
+// High level code isn't as concerned with details.
+// Low level code is more concerned with details and specifics.
