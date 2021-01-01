@@ -23,4 +23,4 @@ function callAction($controller, $action)
 
 }
 
-use App\Core\{Router, Request}; from PHP7+
+// use App\Core\{Router, Request}; from PHP7+
